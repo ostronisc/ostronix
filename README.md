@@ -19,7 +19,7 @@
 	</center>
 	</p>
 	<p align="center">
-		<h1 align="center">🔥 Hi, I'm ostronix-rus!</h1>
+		<h1 align="center">🔥 Hi, I'm ostronix!</h1>
 		<h3 align="center">I am an advanced coder who writes C++, C#, C, JavaScript, TypeScript, Ruby, Dart, Flutter, HTML, CSS, B, Golang. Glad you visit my Github card</i><br>
     </p>
 <h1 align="center">💡 Projects in NmpJS:</h1>
