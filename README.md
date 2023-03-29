@@ -14,12 +14,12 @@
       <a href="https://ostronix.github.io"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=www.ostronix.github.io" /> </a>
 
 <a href="https://t.me/garant_ostrovsky"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=t.me/garant_ostrovsky" /> </a>
-		<a href="https://www.npmjs.com/~ostrovsky-swedesdart"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=npmjs.com/~ostrovsky-swedesdart" /> </a>
+		<a href="https://www.npmjs.com/~ostronix"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=npmjs.com/~ostronix" /> </a>
 <a href="https://vk.com/ostronix"> <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=vk.com/ostronix" /> </a>
 	</center>
 	</p>
 	<p align="center">
-		<h1 align="center">🔥 Hi, I'm ostrovsky-swedesdart-rus!</h1>
+		<h1 align="center">🔥 Hi, I'm ostronix-rus!</h1>
 		<h3 align="center">I am an advanced coder who writes C++, C#, C, JavaScript, TypeScript, Ruby, Dart, Flutter, HTML, CSS, B, Golang. Glad you visit my Github card</i><br>
     </p>
 <h1 align="center">💡 Projects in NmpJS:</h1>
@@ -29,14 +29,14 @@
  • Outdated - <a align="center" target="_blank" href="https://npmjs.com/package/pinguage-request">💡 Pinguage-Request</a><text> — Get a result about the validity of the site in node js or type script.</text><br>
  • <a align="center"><b>🔥 Further</b></a><text> – more</text>
 <h1 align="center">ℹ️ Statistics to language (WHITE):</h1>
-<img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostrovsky-swedesdart&layout=compact" alt="TopCodeBeast" align="center"/>
+<img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostronix&layout=compact" alt="TopCodeBeast" align="center"/>
 <h1 align="center"> 🛒 Statistics to language (BLACK):</h1>
-<br><img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostrovsky-swedesdart&theme=highcontrast&layout=compact" />
+<br><img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostronix&theme=highcontrast&layout=compact" />
 <h1 align="center"><b>🎩 Github Stats:</b></h1>
 	<p align="center" height="120em">
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=ostrovsky-swedesdart&show_icons=true&theme=highcontrast" /><br>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=ostronix&show_icons=true&theme=highcontrast" /><br>
 <p align="center"><b>🚀 Github Contribution Graph</b></p>
 <p align="center">
-  <img height="120em" align="center" src="https://activity-graph.herokuapp.com/graph?username=ostrovsky-swedesdart&bg_color=000000&color=D9D9D9&line=FCFF00&point=FFFFFF&hide_border=true" />
+  <img height="120em" align="center" src="https://activity-graph.herokuapp.com/graph?username=ostronix&bg_color=000000&color=D9D9D9&line=FCFF00&point=FFFFFF&hide_border=true" />
 </p>
 </html>
